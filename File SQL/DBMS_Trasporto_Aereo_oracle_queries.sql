@@ -1,5 +1,5 @@
 /* --------------------------------------------------------------------------
- * ALFIO CASTIGLIONE - Airline Ticketing System
+ * ALFIO CASTIGLIONE - Trasporto Aereo
  * --------------------------------------------------------------------------
  * QUERIES SQL
  * --------------------------------------------------------------------------
@@ -256,4 +256,5 @@
         NTILE(4) OVER (ORDER BY RV.RicavoTotale DESC) AS Quartile_Rendimento
     FROM RicavoVolo RV
     ORDER BY Rank_Ricavo_Assoluto;
+
     
