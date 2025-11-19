@@ -1,5 +1,5 @@
 /* --------------------------------------------------------------------------
-     ALFIO CASTIGLIONE - Airline Ticketing System.
+     ALFIO CASTIGLIONE - Trasporto Aereo
      SCRIPT DI CREAZIONE E POPOLAMENTO DBMS
 */ --------------------------------------------------------------------------
 
